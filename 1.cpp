@@ -2,7 +2,10 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+class anuimal
+{
+public:
+};
 class BigCat
 {
 public:
